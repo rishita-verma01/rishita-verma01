@@ -5,21 +5,45 @@
   <img src="https://drive.google.com/uc?export=view&id=1Kwlg3NMyhZZxdsQuhqYPaePavNQz2dCf" alt="Chibi Rishita" width="300"/>
 </p>
 
-- 🌱 I’m currently learning **Flask, FastAPI, Django**
+---
 
-- 💬 Ask me about  
-  **🧠 AI/ML concepts, projects, and research**  
-  **📊 Data Science & Analytics**  
-  **🖼️ Computer Vision & OCR tools (Tesseract, Google Vision API)**  
-  **🔍 ML in Healthcare – especially around GDM, PCOS & Obesity Risk prediction**  
-  **🌐 Python Backend Development (Flask, FastAPI in progress)**  
-  **🎨 My love for art & singing too — always up for a creative chat!**
+### 🌱 I’m Currently Learning
+**Flask, FastAPI, Django** – diving deeper into scalable backend systems.
 
-- 📫 How to reach me: **rishita.verma888@gmail.com**
+---
 
-- 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1vrS6X-0agkL4Am-4pGkKpcGf9JOsI9tl/view?usp=sharing)
+### 💬 Ask Me About
+- 🧠 AI/ML concepts, projects, and research  
+- 📊 Data Science & Analytics  
+- 🖼️ Computer Vision & OCR tools (Tesseract, Google Vision API)  
+- 🔍 ML in Healthcare – especially around GDM, PCOS & Obesity Risk prediction  
+- 🌐 Python Backend Development  
+- 🎨 My love for art & singing too — always up for a creative chat!
 
-- ⚡ Fun fact: **🎤 I’m always ready to jam to good music and 🎨 sketch my imagination away — sometimes at the same time! 😄🎶🖌️**
+---
+
+### 📫 How to Reach Me
+📧 **rishita.verma888@gmail.com**  
+📄 [Resume](https://drive.google.com/file/d/1vrS6X-0agkL4Am-4pGkKpcGf9JOsI9tl/view?usp=sharing)
+
+---
+
+### ⚡ Fun Fact
+🎤 I’m always ready to jam to good music and 🎨 sketch my imagination away — sometimes at the same time! 😄🎶🖌️
+
+---
+
+## 📚 Research Experience
+
+👩‍🔬 I’m passionate about applying machine learning to real-world healthcare challenges. I've authored **2 research papers** published in **IEEE Xplore**:
+
+- 🧬 **[Leveraging Machine Learning for Classification of Obesity Risk Across Diverse Demography](https://ieeexplore.ieee.org/document/11011446)**  
+  📍 *International Conference on Advancement in Computation & Computer Technologies (InCACCT) 2025 – IEEE Delhi Section*  
+  🎯 Achieved **98% accuracy** in predicting obesity risk using ML models.
+
+- 👩‍⚕️ **[Predicting Gestational Diabetes and PCOS Susceptibility: ML-Based Cross-Framework Analysis](https://icdsis.in/)**  
+  📍 *International Conference on Data Science and Information System (ICDSIS) 2025 – IEEE Bangalore Section*  
+  🎯 ML models predicted GDM and PCOS risks with **93% accuracy**.
 
 ---
 
@@ -29,6 +53,8 @@
 <a href="https://kaggle.com/rishitaverma02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishitaverma02" height="30" width="40" /></a>
 <a href="https://instagram.com/rishitaverma._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishitaverma._" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
