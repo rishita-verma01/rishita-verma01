@@ -25,6 +25,7 @@
 ### 📫 How to Reach Me
 📧 **rishita.verma888@gmail.com**  
 📄 [Resume](https://drive.google.com/file/d/1vrS6X-0agkL4Am-4pGkKpcGf9JOsI9tl/view?usp=sharing)
+📞 **(+91)8657240144**
 
 ---
 
